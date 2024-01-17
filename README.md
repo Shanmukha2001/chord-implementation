@@ -5,4 +5,4 @@ The implementation is partly based on the algorithm provided in wikipedia and pa
 It also contains eclipse attack, which is a static code.
 
 # do i need multiple systems?
-You can run them eclipse attack and chord protocol seperately and both the codes don't need multiple pc/laptops as it is does not use socket programming.
+both the codes don't need multiple pc/laptops as it is does not use socket programming :You can run eclipse attack and chord protocol seperately.
